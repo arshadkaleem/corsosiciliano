@@ -32,7 +32,7 @@ export default function Home() {
               href="tel:+17739993999" 
               className="text-sm font-medium"
             >
-              +1 (773) 999-3999 / +1 (630) 641-1519
+              +1 (773) 999-3999 / +1 (331) 315-8345
             </a>
           </div>
 
